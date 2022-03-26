@@ -38,7 +38,7 @@ function loop(){
         if(historiaCorrente>=0){
             loop();
         }else{
-            window.location.href = "/gameover.html";
+            window.location.href = "gameover.html";
         }
     }, 3000);
 }

@@ -37,7 +37,7 @@ historia_anao = {
     },
 
     8:{
-        texto:"É Durotan a noite é só uma criança, e ela está começando ……",
+        texto:"É Durotan a noite é só uma criança, e ela está só começando ……",
         acoes:{},
         historia:-1
     },
