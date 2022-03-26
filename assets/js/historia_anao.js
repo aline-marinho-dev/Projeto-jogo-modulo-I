@@ -5,17 +5,17 @@ historia_anao = {
         historia:2
     },
     2:{
-        texto:"Pensando bem, oque vc prefere. Ir para casa a esquerda ou a tarberda pela direta?",
+        texto:"Pensando bem, oque você prefere. Ir para casa a esquerda ou a tarberda pela direta?",
         acoes:{esquerda:6,direita:3},
         historia:-1
     },
     3:{
-        texto:"Voce chego a tarberna e bebeu horrores. Apos a bebedeira, vc quer ir pra casa, mas não sabe ao certo pra que lado",
+        texto:"Voce chego a taberna e bebeu deveras. Apos a bebedeira, vc quer ir pra casa, mas não sabe ao certo pra que lado",
         acoes:{esquerda:4,direita:5},
         historia:-1
     },
     4:{
-        texto:"Éeee Durotam, a noite esta bela, estrelas brinlhantes e a lua ilumindando seu caminho",
+        texto:"Éeee Durotam, a noite esta bela, estrelas brilhantes e a lua ilumindando seu caminho",
         acoes:{},
         historia:7
     },
@@ -25,13 +25,13 @@ historia_anao = {
         historia:2
     },
     6:{
-        texto:"Então Durotan vc cambaleando cançado pela estrada encontra um bruxo de idade de aparência carismática chamado Dumbledore fumando algo que parecia ser um cachimbo mágico em suas mãos e mesmo lhe oferece uma pitada. Aí você tem duas opções 'aceitar' ou 'aceitar'",
+        texto:"Então Durotan você  cansando do trabalho árduo pela estrada encontra um bruxo de idade de aparência carismática chamado Dumbledore fumando algo que parecia ser um cachimbo mágico em suas mãos e mesmo lhe oferece uma pitada. Aí você tem duas opções 'aceitar' ou 'aceitar'",
         acoes:{aceitar:8},
         historia:2
     },
 
     7:{
-        texto:"Então Durotan vc cambaleando bêbado pela estrada encontra um bruxo de idade de aparência carismática chamado Dumbledore fumando algo que parecia ser um cachimbo mágico em suas mãos e mesmo lhe oferece uma pitada. Aí você tem duas opções 'aceitar' ou 'aceitar'",
+        texto:"Então Durotan , Você cambaleando bêbado pela estrada encontra um bruxo de idade de aparência carismática chamado Dumbledore fumando algo que parecia ser um cachimbo mágico em suas mãos e mesmo lhe oferece uma pitada. Aí você tem duas opções 'aceitar' ou 'aceitar'",
         acoes:{aceitar:8},
         historia:2
     },
