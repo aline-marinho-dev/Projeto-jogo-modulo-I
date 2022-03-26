@@ -1,5 +1,5 @@
 body {
-    background-image: url(/assets/img/mapa.jpg);
+    background-image: url(assets/img/mapa.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
@@ -12,7 +12,7 @@ textarea {
     resize: none;
     border: 0 none;
     outline: none;
-    width: 95vw;
+    width: 50vw;
     height: 80vh;
     margin-left: 15px;
 }

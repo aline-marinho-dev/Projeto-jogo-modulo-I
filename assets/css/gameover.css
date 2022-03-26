@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Rye&display=trocar');
 
 body{
-	background-image: url(/assets/img/fim.jpg);
+	background-image: url(assets/img/fim.jpg);
 	background-size: 25%;
 	background-attachment: fixed;
 }
