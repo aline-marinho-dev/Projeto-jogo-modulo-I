@@ -1,0 +1,25 @@
+body {
+    background-image: url(/assets/img/mapa.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+
+textarea {
+    color: white;
+    background-color: rgb(31, 30, 30, 0.9);
+    resize: none;
+    border: 0 none;
+    outline: none;
+    width: 95vw;
+    height: 80vh;
+    margin-left: 15px;
+}
+
+input {
+    color: white;
+    width: 95vw;
+    background-color: rgb(31, 30, 30, 0.9);
+    margin-left: 15px;
+}
