@@ -6,12 +6,12 @@ historia_anao = {
     },
     2:{
         texto:"Pensando bem, oque você prefere. Ir para casa a esquerda ou a tarberda pela direta?",
-        acoes:{esquerda:6,direita:3},
+        acoes:{ Esquerda:6,Direita:3},
         historia:-1
     },
     3:{
         texto:"Voce chego a taberna e bebeu deveras. Apos a bebedeira, vc quer ir pra casa, mas não sabe ao certo pra que lado",
-        acoes:{esquerda:4,direita:5},
+        acoes:{Esquerda:4,Direita:5},
         historia:-1
     },
     4:{
@@ -25,8 +25,8 @@ historia_anao = {
         historia:2
     },
     6:{
-        texto:"Então Durotan você  cansando do trabalho árduo pela estrada encontra um bruxo de idade de aparência carismática chamado Dumbledore fumando algo que parecia ser um cachimbo mágico em suas mãos e mesmo lhe oferece uma pitada. Aí você tem duas opções 'aceitar' ou 'aceitar'",
-        acoes:{aceitar:8},
+        texto:"Então Durotan você muito cansando do trabalho árduo pela estrada encontra um bruxo de idade de aparência carismática chamado Dumbledore fumando algo que parecia ser um cachimbo mágico em suas mãos e mesmo lhe oferece uma pitada. Aí você tem duas opções 'aceitar' ou 'aceitar'",
+        acoes:{Aceitar:8},
         historia:2
     },
 
