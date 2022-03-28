@@ -42,13 +42,20 @@ historia_humano = {
         historia:2
     },
     9:{
-        texto:
+        texto:"Ficou na gruta por algum tempo e quando finalmente saiu pode terminar a sua jornada pois acabou enxergando de longe uma pequena trilha que o levaria para fora da floresta. Finalmente  saiu da floresta a salvo de quaisquer perigo , e foi ai que logo vislumbrou a imagem do imponente castelo  do sr nobre Alexandre III .",
         acoes:{ },
-        historia:-1
+        historia:11
     },
     10:{
-        texto:
+        texto:" Parece que a sorte sorriu para Anduim pois escolheu o caminho certo da direita e finalmente  consegiu sair da Floresta das Trevas , de longe ele viu o castelo exuberante do nobre e viu também um  bonito riachoque ficava prox ao castelo , então ele ficou com uma duvida tola porém relevante aquela altura :  ir até ao riacho  pela direita e  pegar um pouco de agua  pois estava extremamente sedento de água ou ir para esquerda chegando mais rapido ao castelo sem poder apreciar o riacho ",
+        acoes:{Esquerda:11,Direita:2},
+        historia:-1
+    },
+    11:{
+        texto:" O valente guerreiro foi recebido por um  soldado do Nobre  que logo levou até o salão principal onde  Alexandre III o esperava.Alexandre III ficou animado com sua presença então lhe ofereceu um banquete regado a muito vinho , comida boa e belas plebeias jeitosas ao seu dispor antes de enfrentar sua missão em apanhar o temível forasteiro mas isso é história pra outra ocasião.  ",
         acoes:{ },
         historia:-1
     },
+    
+    
 }
