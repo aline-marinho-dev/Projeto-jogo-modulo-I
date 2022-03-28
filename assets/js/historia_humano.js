@@ -6,7 +6,7 @@ historia_humano = {
     },
     2:{
         texto:"Anduim apressadamente se preparou e seguiu em direção a Floresta das Negra. Já dentro da floresta avistou duas trilhas  , a primeira trilha lhe parecia segura porém muito estreita ,já a segunda trilha era bem larga mas  pelo que pode  alcançar a vista  tinha algumas curvas  sinuosas. Então a primeira trilha ficava a direita e a outra à esquerda.O que você faz ? ",
-        acoes:{Esquerda:3,Direita:4},
+        acoes:{esquerda:3,direita:4},
         historia:-1
     },
     3:{
@@ -16,7 +16,7 @@ historia_humano = {
     },
     4:{
         texto:"Anduim seguiu pela trilha estreita  desconfiado com os perigos que poderiam surgir à frente , seguiu observando atentamente todas as árvores que podia ver  a fim de procurar alguém à espreita  que lhe fizesse algum mal  . Andou por horas a fio , estava  muito cansado porém continuou com muita persistência em chegar até o castelo do nobre  , logo observou um  grande lago  mais adiante  , chegou bem na beira do lago e logo começou a  olha fixamente para o lago à procura de algum perigo.Esse lago tinha águas gélidas e parecia  bastante fundo  na verdade Anduim não conseguia  ver o fundo pois água era turva  , logo lhe ocorrera uma indagação  sobre o que fazer . Ele poderia seguir a direita  onde estava o lago e  atravessá - lo nadando  ou pega uma trilha a esquerda  no qual nem saberia quanto tempo iria demorar para sair da Floresta.  O que você faria ?",
-        acoes: {Esquerda:7,Direita:8},
+        acoes: {esquerda:7,direita:8},
         historia:-1
     },
 
@@ -32,7 +32,7 @@ historia_humano = {
     },
     7:{
         texto:"Anduim seguiu pela trilha estreita  desconfiado com os perigos que poderiam surgir à frente , seguiu observando atentamente todas as árvores que podia ver  a fim de procurar alguém à espreita  que lhe fizesse algum mal  . Andou por horas a fio , estava  muito cansado porém continuou com muita persistência em chegar até o castelo do nobre  , logo observou um  grande lago  mais adiante  , chegou bem na beira do lago e logo começou a  olha fixamente para o lago à procura de algum perigo.Esse lago tinha águas gélidas e parecia  bastante fundo  na verdade Anduim não conseguia  ver o fundo pois água era turva  , logo lhe ocorrera uma indagação  sobre o que fazer . Ele poderia seguir a direita  onde estava o lago e  atravessá - lo nadando  ou pega uma trilha a esquerda  no qual nem saberia quanto tempo iria demorar para sair da Floresta.  O que você fazria ?",
-        acoes: {Esquerda:7,Direita:8},
+        acoes: {esquerda:7,direita:8},
         historia:-1
     },
 
@@ -48,7 +48,7 @@ historia_humano = {
     },
     10:{
         texto:" Parece que a sorte sorriu para Anduim pois escolheu o caminho certo da direita e finalmente  consegiu sair da Floresta das Trevas , de longe ele viu o castelo exuberante do nobre e viu também um  bonito riachoque ficava prox ao castelo , então ele ficou com uma duvida tola porém relevante aquela altura :  ir até ao riacho  pela direita e  pegar um pouco de agua  pois estava extremamente sedento de água ou ir para esquerda chegando mais rapido ao castelo sem poder apreciar o riacho ",
-        acoes:{Esquerda:11,Direita:2},
+        acoes:{esquerda:11,direita:2},
         historia:-1
     },
     11:{
